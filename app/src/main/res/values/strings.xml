@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyQrCodeScanner</string>
+    <string name="open_scanner">Open Scanner</string>
+    <string name="qr_code_scanner">QR Code Scanner</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="we_need_permission">We need camera permission to scan QR codes. Go to App Settings and manage
+        permissions
+    </string>
+    <string name="grant">Grant</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
